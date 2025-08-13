@@ -1,2 +1,2 @@
 # qt-imageResize
-Zooming and muimageResizeltiple ROI cropping of images
+Resize and crop multiple ROIs of the image
