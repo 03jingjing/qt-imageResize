@@ -1,8 +1,0 @@
-C:/Dev/Qproject/imageResize/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/imageResize.dir
-C:/Dev/Qproject/imageResize/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
-C:/Dev/Qproject/imageResize/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Dev/Qproject/imageResize/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
-C:/Dev/Qproject/imageResize/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/install.dir
-C:/Dev/Qproject/imageResize/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
-C:/Dev/Qproject/imageResize/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/imageResize_autogen_timestamp_deps.dir
-C:/Dev/Qproject/imageResize/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/imageResize_autogen.dir
